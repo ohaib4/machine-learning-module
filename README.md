@@ -1,2 +1,2 @@
-# machine-learning-module
+# machine-learning-modles
 linear regression model
